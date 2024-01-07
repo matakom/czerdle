@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/czerdle/static/css/main.b50e4b1d.css",
+    "main.js": "/czerdle/static/js/main.561e98d2.js",
+    "index.html": "/czerdle/index.html",
+    "main.b50e4b1d.css.map": "/czerdle/static/css/main.b50e4b1d.css.map",
+    "main.561e98d2.js.map": "/czerdle/static/js/main.561e98d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50e4b1d.css",
+    "static/js/main.561e98d2.js"
+  ]
+}
